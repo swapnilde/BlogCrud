@@ -38,9 +38,6 @@
 ?>
 <div class="topnav" id="myTopnav">
 	<a href="/BlogApp/home.php"><button type="button" class="btn btn-primary">Home</button></a>
-<!--	<a href="#news">News</a>-->
-<!--	<a href="#contact">Contact</a>-->
-<!--	<a href="#about">About</a>-->
 		<a><button type="button" class="btn btn-light btn-sm" data-toggle="modal" data-target="#add-post">Add Post</button></a>
 		<a href="logout.php"><button type="button" class="btn btn-light btn-sm">Logout</button></a>
 		<a href="javascript:void(0);" class="icon" id="nav-tog-btn" ><i class="fa fa-bars"></i></a>
