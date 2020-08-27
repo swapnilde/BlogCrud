@@ -32,9 +32,6 @@
 		echo $deletePostStatus;
 	}
 
-
-
-
 ?>
 <div class="topnav" id="myTopnav">
 	<a href="/BlogApp/home.php"><button type="button" class="btn btn-primary">Home</button></a>
